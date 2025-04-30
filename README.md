@@ -6,12 +6,11 @@ This project provides small businesses with a tool to input meeting transcripts 
 
 ## Features
 
-- Analyze meeting transcripts for compliance coverage
 - Detect alignment with NIST CSF SMB incident response categories
 - Identify missing discussion topics as potential risks
 - Output a clear, categorized summary for reporting and auditing
 
 ## Files Included
 
-- `notebook.ipynb` – Core logic and model
-- `dataset.csv` – Training/testing dataset
+- `IR_Bot.ipynb` – Core logic and model
+- `1000rows.csv` – Training/testing dataset
